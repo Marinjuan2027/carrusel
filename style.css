@@ -4,6 +4,26 @@
   box-sizing: border-box;
 }
 
+header {
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.logo {
+  display: flex;
+}
+
+.empresa {
+  margin-top: -150px;
+}
+
+.logo img {
+  height: 150px;
+  margin-right: 10px;
+}
+
 body {
   height: 100vh;
   display: flex;
