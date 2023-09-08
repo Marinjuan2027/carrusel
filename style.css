@@ -9,6 +9,8 @@ header {
   height: 100px;
   justify-content: space-between;
   padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 
 .logo {
